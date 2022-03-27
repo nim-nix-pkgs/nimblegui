@@ -11,6 +11,7 @@
   inputs.src-nimblegui-v0_2_2.ref   = "refs/tags/v0.2.2";
   inputs.src-nimblegui-v0_2_2.owner = "ThomasTJdev";
   inputs.src-nimblegui-v0_2_2.repo  = "nim_nimble_gui";
+  inputs.src-nimblegui-v0_2_2.dir   = "";
   inputs.src-nimblegui-v0_2_2.type  = "github";
   
   inputs."webgui".owner = "nim-nix-pkgs";

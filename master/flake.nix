@@ -11,6 +11,7 @@
   inputs.src-nimblegui-master.ref   = "refs/heads/master";
   inputs.src-nimblegui-master.owner = "ThomasTJdev";
   inputs.src-nimblegui-master.repo  = "nim_nimble_gui";
+  inputs.src-nimblegui-master.dir   = "";
   inputs.src-nimblegui-master.type  = "github";
   
   inputs."webgui".owner = "nim-nix-pkgs";
